@@ -1,6 +1,5 @@
 var startButton = document.getElementById("start-btn");
 var nextButton = document.getElementById("next-btn");
-var questionContainer = document.getElementById("question");
 var timer = document.getElementById("time-left");
 var userScoreDisplay = document.getElementById("score");
 
