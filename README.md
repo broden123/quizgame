@@ -10,7 +10,7 @@ This repo can be downloaded at https://github.com/broden123/week4challenge
 
 -index.html and css file was provided by class instructors
 
--file pathing structure was provided from class
+-file pathing structure was provided from classgit add -A
 
 ## Preview
 
